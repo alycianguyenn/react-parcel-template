@@ -1054,7 +1054,7 @@ try {
   var _reactDomDefault = _parcelHelpers.interopDefault(_reactDom);
   var _App = require("./App");
   var _AppDefault = _parcelHelpers.interopDefault(_App);
-  var _jsxFileName = "/Users/alycianguyen/Desktop/INFO 474/in-class-activities/react-parcel-example1/src/index.js";
+  var _jsxFileName = "/Users/alycianguyen/Desktop/INFO 474/in-class-activities/react-parcel-template/src/index.js";
   _reactDomDefault.default.render(/*#__PURE__*/_reactDefault.default.createElement(_AppDefault.default, {
     __self: undefined,
     __source: {
@@ -26272,7 +26272,7 @@ try {
   _parcelHelpers.defineInteropFlag(exports);
   var _react = require("react");
   var _reactDefault = _parcelHelpers.interopDefault(_react);
-  var _jsxFileName = "/Users/alycianguyen/Desktop/INFO 474/in-class-activities/react-parcel-example1/src/App.js";
+  var _jsxFileName = "/Users/alycianguyen/Desktop/INFO 474/in-class-activities/react-parcel-template/src/App.js";
   const viewHeight = 500;
   const viewWidth = 500;
   const App = () => {
@@ -26591,6 +26591,6 @@ function registerExportsForReactRefresh(module) {
   }
 }
 
-},{"react-refresh/runtime":"592mh"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequire9230")
+},{"react-refresh/runtime":"592mh"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequiree965")
 
 //# sourceMappingURL=index.3fafb3e2.js.map

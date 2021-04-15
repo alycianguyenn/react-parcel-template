@@ -5,7 +5,6 @@
   "main": "dist/index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url https://alycianguyenn.github.io/react-parcel-example-1/; rm -rf docs; mv dist docs;",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alycia Nguyen",
